@@ -57,7 +57,7 @@ Trabajando en proyectos que optimicen la creación y documentación de APIs en *
 
 ## 🌍 **¿Cómo contactarme?**
 - 📧 Correo electrónico: [gdp43191989@gmail.com](mailto:gdp43191989@gmail.com)
-- 💼 LinkedIn: [Gonzalo's LinkedIn](https://www.linkedin.com/in/gonzalo/)
+- 💼 LinkedIn: [Gonzalo's LinkedIn](https://www.linkedin.com/in/gonzalodpaz/)
 
 ## ⚡ **Dato curioso**:
 ¡Me apasiona aprender tecnologías de todo tipo! Me encanta enfrentar desafíos y mejorar mis habilidades constantemente.
